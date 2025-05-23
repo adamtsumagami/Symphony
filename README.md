@@ -18,9 +18,9 @@
 
 ---
 
-## Cara Mengundang [Nama Bot Anda] ke Server Anda
+## Cara Mengundang Symphony ke Server Anda
 
-Untuk menambahkan **[Nama Bot Anda]** ke server Discord Anda, klik tautan undangan berikut:
+Untuk menambahkan **Symphony** ke server Discord Anda, klik tautan undangan berikut:
 
 [Tautan Undangan Bot Anda di Discord](https://discord.com/oauth2/authorize?client_id=YOUR_BOT_CLIENT_ID&permissions=YOUR_REQUIRED_PERMISSIONS&scope=bot%20applications.commands)
 
